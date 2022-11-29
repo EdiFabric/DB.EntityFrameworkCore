@@ -37,6 +37,8 @@ To continue using the trial and the examples, you'll need to request a trial ext
 
 ## 8. Additional information
 
+[EdiFabric DB](https://support.edifabric.com/hc/en-us/articles/360029265372-EDI-to-DB)
+
 [Install EdiFabric](https://support.edifabric.com/hc/en-us/articles/360016808578-Install-EdiFabric)
 
 [Trial and Examples](https://support.edifabric.com/hc/en-us/articles/360000280532-Trial-and-Examples)
