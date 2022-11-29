@@ -29,8 +29,8 @@ X12 5010 837P (HIPAA)
 EDIFACT D96A ORDERS
 
 ## 6. Trial use
-The trial assemblies are valid for 14 days and are subject to EdiFabric's license terms available at https://www.edifabric.com/files/eula.pdf. Upon expiry, the trial packages will begin throwing exceptions.   
-To continue using the trial and the examples, you'll need to either request a trial extension or replace the trial packages, together with all references to the trial packages, with the full version of EdiFabric.  
+The trial assemblies are valid for 14 days and are subject to EdiFabric's license terms available at https://www.edifabric.com/files/eula.pdf. Upon expiry, the trial DLLs will begin throwing exceptions.   
+To continue using the trial and the examples, you'll need to request a trial extension.  
 
 ## 7. Warranty
 *The source code in these example projects is strictly for demonstrational purposes and is provided "AS IS" without warranty of any kind, whether expressed or implied, including but not limited to the implied warranties of merchantability and/or fitness for a particular purpose.*
