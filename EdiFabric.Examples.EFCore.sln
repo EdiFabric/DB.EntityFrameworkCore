@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EdiFabric.Examples.EFCore.X12.TS837P", "EdiFabric.Examples.EFCore.X12.TS837P\EdiFabric.Examples.EFCore.X12.TS837P.csproj", "{9E53C215-3713-48D7-A585-53F46064C771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiFabric.Examples.EFCore.X12.TS850", "EdiFabric.Examples.EFCore.X12.TS850\EdiFabric.Examples.EFCore.X12.TS850.csproj", "{85E6174A-FEB3-439C-BAAA-10AA9F4A0A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdiFabric.Examples.EFCore.Edifact.TSORDERS", "EdiFabric.Examples.EFCore.Edifact.TSORDERS\EdiFabric.Examples.EFCore.Edifact.TSORDERS.csproj", "{6E24D091-88AA-455C-A314-F313F27A2761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E53C215-3713-48D7-A585-53F46064C771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E53C215-3713-48D7-A585-53F46064C771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E53C215-3713-48D7-A585-53F46064C771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E53C215-3713-48D7-A585-53F46064C771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E6174A-FEB3-439C-BAAA-10AA9F4A0A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E6174A-FEB3-439C-BAAA-10AA9F4A0A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E6174A-FEB3-439C-BAAA-10AA9F4A0A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E6174A-FEB3-439C-BAAA-10AA9F4A0A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E24D091-88AA-455C-A314-F313F27A2761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E24D091-88AA-455C-A314-F313F27A2761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E24D091-88AA-455C-A314-F313F27A2761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E24D091-88AA-455C-A314-F313F27A2761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93A24EF-AFDB-46FC-902C-0E45EBB1C0A2}
+	EndGlobalSection
+EndGlobal

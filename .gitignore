@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EdiFabric.Examples.EFCore.Edifact.TSORDERS/bin/Debug/net6.0
+/EdiFabric.Examples.EFCore.Edifact.TSORDERS/Migrations
+/EdiFabric.Examples.EFCore.Edifact.TSORDERS/obj
+/EdiFabric.Examples.EFCore.X12.TS837P/.vs/EdiFabric.Examples.EFCore.X12.TS837P
+/EdiFabric.Examples.EFCore.X12.TS837P/bin/Debug/net6.0
+/EdiFabric.Examples.EFCore.X12.TS837P/Migrations
+/EdiFabric.Examples.EFCore.X12.TS837P/obj
+/EdiFabric.Examples.EFCore.X12.TS850/bin/Debug/net6.0
+/EdiFabric.Examples.EFCore.X12.TS850/Migrations
+/EdiFabric.Examples.EFCore.X12.TS850/obj
