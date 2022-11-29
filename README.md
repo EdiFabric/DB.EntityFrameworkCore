@@ -24,9 +24,9 @@ All examples use Entity Framework Core 6.0.11. The supported Entity Framework Co
 ## 5. Getting started
 Open Program.cs and follow the instructions there. The solutions contains 3 projects that use Entity Framework Core:
 
-X12 4010 850
-X12 5010 837P (HIPAA)
-EDIFACT D96A ORDERS
+X12 4010 850  
+X12 5010 837P (HIPAA)  
+EDIFACT D96A ORDERS  
 
 ## 6. Trial use
 The trial assemblies are valid for 14 days and are subject to EdiFabric's license terms available at https://www.edifabric.com/files/eula.pdf. Upon expiry, the trial DLLs will begin throwing exceptions.   
